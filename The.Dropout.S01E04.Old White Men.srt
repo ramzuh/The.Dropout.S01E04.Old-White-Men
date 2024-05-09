@@ -1,0 +1,4301 @@
+1
+00:00:01,000 --> 00:00:02,960
+Investigué sobre Richard Fuisz.
+
+2
+00:00:03,003 --> 00:00:05,560
+Si ella quiere poner
+un dispositivo de análisis de sangre
+
+3
+00:00:05,631 --> 00:00:08,160
+en la casa de alguien, ella tendrá que
+sacar una licencia de mi invención.
+
+4
+00:00:08,217 --> 00:00:10,240
+¿Me demandará?
+
+5
+00:00:10,302 --> 00:00:12,400
+Aún no funciona.
+No está ni cerca de funcionar.
+
+6
+00:00:12,471 --> 00:00:13,800
+No debe funcionar, es un ensayo.
+
+7
+00:00:13,847 --> 00:00:16,760
+¿Hiciste ensayos en pacientes
+con cáncer terminal
+
+8
+00:00:16,808 --> 00:00:18,600
+con un prototipo que no funcionaba?
+
+9
+00:00:18,644 --> 00:00:21,479
+Pediré un voto de censura
+del directorio.
+
+10
+00:00:21,480 --> 00:00:24,600
+Necesito una inversión de $20 millones.
+
+11
+00:00:24,650 --> 00:00:27,360
+Para que el directorio acepte
+que sigas como CEO.
+
+12
+00:00:27,361 --> 00:00:29,360
+Y puedes ser jefe de operaciones.
+
+13
+00:00:29,404 --> 00:00:31,320
+Debemos olvidarnos
+de las empresas farmacéuticas
+
+14
+00:00:31,365 --> 00:00:34,040
+y tratar de apuntar al comercio minorista.
+
+15
+00:00:45,879 --> 00:00:48,720
+Así que, Sunny Balwani
+le proporcionó $20 millones
+
+16
+00:00:48,799 --> 00:00:50,360
+para mantener la empresa a flote,
+
+17
+00:00:50,425 --> 00:00:52,960
+pero, para 2010, ese dinero
+también había desaparecido.
+
+18
+00:00:53,011 --> 00:00:55,000
+- ¿Eso es correcto?
+- Sí.
+
+19
+00:00:55,056 --> 00:00:56,720
+¿Y no es correcto
+que la máquina Edison
+
+20
+00:00:56,765 --> 00:00:58,880
+aún no funcionaba
+de forma uniforme en 2010
+
+21
+00:00:58,934 --> 00:01:00,120
+cuando le presentó a Walgreens
+
+22
+00:01:00,185 --> 00:01:03,000
+el plan de poner su dispositivo
+en sus tiendas?
+
+23
+00:01:03,313 --> 00:01:05,880
+¿Compartió esa información
+con Walgreens?
+
+24
+00:01:08,402 --> 00:01:10,320
+...está bajo una investigación de ética
+
+25
+00:01:10,362 --> 00:01:12,440
+por aceptar regalos inapropiados.
+Luego declarando...
+
+26
+00:01:12,489 --> 00:01:14,560
+...eso significa aumento de la matrícula.
+
+27
+00:01:14,616 --> 00:01:17,520
+Revela un estándar nacional
+para las matemáticas.
+
+28
+00:01:58,994 --> 00:02:00,160
+Hola.
+
+29
+00:02:01,413 --> 00:02:03,040
+Qué gusto verte.
+
+30
+00:02:06,376 --> 00:02:09,796
+VIEJOS BLANCOS
+
+31
+00:02:19,431 --> 00:02:20,960
+Hace frío hoy.
+
+32
+00:02:30,526 --> 00:02:32,440
+Que tengan un buen día.
+
+33
+00:02:34,947 --> 00:02:37,320
+De acuerdo, ¿cómo están todos?
+
+34
+00:02:37,366 --> 00:02:39,080
+¡Brian! Choca esos cinco.
+
+35
+00:02:39,159 --> 00:02:41,245
+¡Oh! Mike. De acuerdo.
+
+36
+00:02:41,912 --> 00:02:43,120
+- ¿Ya llegaron?
+- Sí.
+
+37
+00:02:43,163 --> 00:02:44,800
+Que pasen, Dave.
+
+38
+00:02:44,915 --> 00:02:47,640
+Estoy listo para atormentarlos
+con preguntas.
+
+39
+00:02:47,918 --> 00:02:50,680
+Estamos listos para brindarles
+la oportunidad
+
+40
+00:02:50,754 --> 00:02:52,880
+de estar a la vanguardia
+del sistema sanitario.
+
+41
+00:02:52,923 --> 00:02:56,320
+Mira, debo advertirte,
+soy médico hace 30 años.
+
+42
+00:02:56,385 --> 00:02:59,080
+Así que cuando la gente afirma
+haber inventado
+
+43
+00:02:59,137 --> 00:03:02,599
+un gran avance médico,
+soy escéptico.
+
+44
+00:03:04,142 --> 00:03:04,800
+Dr. Rosen...
+
+45
+00:03:04,853 --> 00:03:06,400
+J, por favor, Dr. J.
+
+46
+00:03:06,478 --> 00:03:08,640
+Porque solía jugar básquetbol.
+
+47
+00:03:12,442 --> 00:03:13,560
+Dr. J.
+
+48
+00:03:13,610 --> 00:03:14,640
+Dr. J,
+
+49
+00:03:14,695 --> 00:03:16,196
+en 1992,
+
+50
+00:03:16,488 --> 00:03:19,360
+tuvo la visión
+de impulsar a los médicos
+
+51
+00:03:19,408 --> 00:03:23,920
+y a los hospitales a transmitir
+las historias clínicas electrónicamente...
+
+52
+00:03:23,996 --> 00:03:25,600
+- Intellihealth.
+- Intellihealth.
+
+53
+00:03:25,664 --> 00:03:27,680
+Exacto. Eso fue un avance.
+
+54
+00:03:28,083 --> 00:03:30,000
+No estoy seguro de eso,
+
+55
+00:03:30,210 --> 00:03:31,760
+pero ganó un Webby.
+
+56
+00:03:31,837 --> 00:03:33,280
+En 1999.
+
+57
+00:03:33,338 --> 00:03:36,049
+Porque fue visionario.
+
+58
+00:03:36,675 --> 00:03:40,280
+Siempre comprendió que brindar
+información a la gente sobre su salud
+
+59
+00:03:40,345 --> 00:03:42,360
+no solo es bueno para el mundo,
+
+60
+00:03:42,431 --> 00:03:43,720
+puede...
+
+61
+00:03:44,600 --> 00:03:47,040
+cómo puedo decirlo,
+ser muy lucrativo.
+
+62
+00:03:48,312 --> 00:03:50,840
+Y si se aprueba el proyecto de ley
+sanitaria de Obama,
+
+63
+00:03:50,898 --> 00:03:53,399
+millones de personas más
+estarán motivadas
+
+64
+00:03:53,400 --> 00:03:54,800
+a empezar a priorizar su salud.
+
+65
+00:03:54,860 --> 00:03:55,800
+Pero, mira,
+
+66
+00:03:55,861 --> 00:03:59,040
+Walgreens intentó con las clínicas
+en las tiendas en 2007.
+
+67
+00:03:59,114 --> 00:04:00,760
+y fue un fracaso.
+
+68
+00:04:01,700 --> 00:04:04,480
+Las clínicas en las tiendas
+me hace pensar en enfermos
+
+69
+00:04:04,536 --> 00:04:06,920
+esperando una inyección antigripal.
+
+70
+00:04:06,997 --> 00:04:08,480
+Está pensando
+en algo muy limitado.
+
+71
+00:04:08,540 --> 00:04:12,252
+Lo que nosotros queremos ofrecer
+son centros de bienestar.
+
+72
+00:04:14,254 --> 00:04:18,080
+Aquí, el cliente espera su análisis
+de sangre indoloro, eficiente,
+
+73
+00:04:18,133 --> 00:04:20,219
+de bajo costo de Theranos
+
+74
+00:04:20,844 --> 00:04:22,760
+en la farmacia favorita
+de Estados Unidos.
+
+75
+00:04:22,804 --> 00:04:24,560
+Se ve muy relajado.
+
+76
+00:04:25,641 --> 00:04:27,560
+Un mensaje contundente.
+
+77
+00:04:28,060 --> 00:04:30,280
+¿Y ha sido aprobada por la FDA?
+
+78
+00:04:30,395 --> 00:04:32,720
+Estamos buscando forjar
+relaciones estratégicas
+
+79
+00:04:32,773 --> 00:04:33,920
+para que avance.
+
+80
+00:04:33,982 --> 00:04:37,080
+Pero estoy de acuerdo con Mark Zuckerberg
+cuando dijo:
+
+81
+00:04:37,819 --> 00:04:40,320
+"Muévete rápido y rompe cosas".
+
+82
+00:04:40,364 --> 00:04:41,480
+Ja.
+
+83
+00:04:47,829 --> 00:04:50,080
+UNOS MESES MÁS TARDE
+
+84
+00:04:50,123 --> 00:04:51,640
+Oye.
+
+85
+00:04:51,708 --> 00:04:52,320
+Wade.
+
+86
+00:04:52,377 --> 00:04:53,360
+- Hola, J, ¿qué tal?
+- Hola.
+
+87
+00:04:53,418 --> 00:04:54,600
+Choca esos cinco.
+
+88
+00:04:54,670 --> 00:04:55,560
+- Sí.
+- Oye.
+
+89
+00:04:55,630 --> 00:04:57,200
+Estoy ocupado con el acuerdo
+con Express Scripts.
+
+90
+00:04:57,256 --> 00:04:58,080
+Sé que lo estás.
+
+91
+00:04:58,132 --> 00:05:00,560
+¿Tuviste la oportunidad
+de echar un vistazo a la propuesta
+
+92
+00:05:00,634 --> 00:05:01,960
+del programa piloto de Theranos?
+
+93
+00:05:02,010 --> 00:05:03,560
+Me está costando conseguir tracción.
+
+94
+00:05:03,637 --> 00:05:05,320
+Sí. Bien, intentamos con clínicas
+dentro de la tienda.
+
+95
+00:05:05,389 --> 00:05:07,240
+No, no, no, no.
+No sería una clínica en la tienda.
+
+96
+00:05:07,307 --> 00:05:10,080
+Sería un centro de bienestar.
+
+97
+00:05:10,143 --> 00:05:12,160
+¿Centro de bienestar?
+
+98
+00:05:12,229 --> 00:05:14,040
+- Sí.
+- ¿Qué significa eso?
+
+99
+00:05:14,106 --> 00:05:16,320
+Además, no deberías comer
+esos pasteles en la mañana.
+
+100
+00:05:16,400 --> 00:05:18,600
+Arruina el metabolismo
+el resto del día.
+
+101
+00:05:18,652 --> 00:05:20,720
+Bien, no dejaré los pasteles.
+
+102
+00:05:20,779 --> 00:05:23,080
+Viví demasiado tiempo en Ginebra.
+
+103
+00:05:23,407 --> 00:05:24,920
+¿Por qué no me lo das a mí?
+
+104
+00:05:24,992 --> 00:05:26,040
+¿Cuándo viviste en Ginebra?
+
+105
+00:05:26,118 --> 00:05:28,280
+Procter & Gamble,
+era jefe de finanzas para toda...
+
+106
+00:05:28,328 --> 00:05:29,640
+Ya sabe, Roland.
+
+107
+00:05:29,705 --> 00:05:31,945
+Wade, 192 análisis de
+una sola gota de sangre.
+
+108
+00:05:31,986 --> 00:05:32,640
+De acuerdo.
+
+109
+00:05:32,709 --> 00:05:34,080
+Vamos.
+
+110
+00:05:34,126 --> 00:05:36,240
+Salteemos
+los comités de revisión.
+
+111
+00:05:36,295 --> 00:05:38,000
+No lo sé. Tal vez.
+
+112
+00:05:38,589 --> 00:05:40,000
+Debemos, debemos irnos.
+
+113
+00:05:40,048 --> 00:05:42,440
+Walgreens aún envía faxes
+a los médicos.
+
+114
+00:05:42,509 --> 00:05:43,960
+Técnicamente, faxes encriptados...
+
+115
+00:05:44,011 --> 00:05:45,520
+Sí, bien, estamos en una recesión,
+
+116
+00:05:45,596 --> 00:05:48,040
+y Facebook está valuada
+en $23 mil millones, Wade.
+
+117
+00:05:48,098 --> 00:05:50,480
+¡Rich! Me encanta lo que haces, amigo.
+
+118
+00:05:50,559 --> 00:05:52,600
+- $23 mil millones de dólares, Wade.
+- Sigue, sigue con eso.
+
+119
+00:05:52,644 --> 00:05:55,280
+Este es el futuro,
+y Walgreens tiene cien años.
+
+120
+00:05:55,355 --> 00:05:56,800
+Ciento nueve,
+aunque parezca increíble.
+
+121
+00:05:56,857 --> 00:05:58,800
+Sí, ya probaron con las clínicas
+en la tienda,
+
+122
+00:05:58,859 --> 00:06:01,040
+pero lo hicieron un año entero
+después que CVS.
+
+123
+00:06:01,111 --> 00:06:02,480
+Y ahora CVS es dueño
+de todo el mercado.
+
+124
+00:06:02,529 --> 00:06:03,400
+¿CVS?
+
+125
+00:06:03,448 --> 00:06:06,040
+Espera, espera, espera,
+¿Theranos está hablando con CVS?
+
+126
+00:06:06,116 --> 00:06:08,280
+Podría ser.
+Lo intentan vender.
+
+127
+00:06:08,452 --> 00:06:11,480
+Wade, análisis de sangre de bajo costo
+mientras que esperas.
+
+128
+00:06:11,538 --> 00:06:14,760
+Estiman decenas más de personas
+en las tiendas por día.
+
+129
+00:06:14,833 --> 00:06:17,960
+Estamos hablando de cientos
+de millones en ingresos extra.
+
+130
+00:06:17,961 --> 00:06:20,840
+Este es el tipo de tecnología
+en la que queremos figurar.
+
+131
+00:06:20,881 --> 00:06:23,160
+Necesito... Mira, necesito encontrar
+a una mujer.
+
+132
+00:06:23,217 --> 00:06:23,960
+¿Qué?
+
+133
+00:06:24,010 --> 00:06:26,880
+Bien. Espera, espera, espera.
+Espera un momento.
+
+134
+00:06:26,929 --> 00:06:28,800
+Disculpe. Hola, Dr. J.
+
+135
+00:06:28,847 --> 00:06:32,280
+Wade McClellan, nuestro jefe de finanzas,
+el jefe de finanzas de todo Walgreens.
+
+136
+00:06:32,351 --> 00:06:34,120
+Necesito una perspectiva femenina.
+
+137
+00:06:34,186 --> 00:06:35,040
+Ahora, disculpen.
+
+138
+00:06:35,104 --> 00:06:38,160
+Imagine un futuro en el que se pudiera
+detectar el cáncer de mamas
+
+139
+00:06:38,232 --> 00:06:40,817
+antes de una mamografía en un Walgreens.
+
+140
+00:06:41,443 --> 00:06:42,800
+- Eso suena genial.
+- ¿Lo ves?
+
+141
+00:06:42,861 --> 00:06:44,400
+Creo que igual probablemente
+se necesitaría la mamografía.
+
+142
+00:06:44,446 --> 00:06:46,760
+¡Gracias! ¿Ves?
+Ella dice que suena genial.
+
+143
+00:06:46,823 --> 00:06:48,480
+¿Ves lo que digo?
+
+144
+00:06:49,535 --> 00:06:52,120
+Sí. De acuerdo,
+¿qué hay de su situación financiera?
+
+145
+00:06:52,162 --> 00:06:53,320
+Lo estoy investigando.
+
+146
+00:06:53,372 --> 00:06:56,680
+Recibieron efectivo inesperado cuando
+su jefe de operaciones, Sunny, Ba-Ba...
+
+147
+00:06:56,750 --> 00:06:57,960
+- Balwani.
+- Balwani. Así es.
+
+148
+00:06:58,001 --> 00:07:00,160
+Sunny Balwani se incorporó
+hace tres años,
+
+149
+00:07:00,212 --> 00:07:01,720
+y ahora quieren un acuerdo
+más permanente
+
+150
+00:07:01,797 --> 00:07:04,800
+para, ya sabes,
+mantener contentos a los inversores.
+
+151
+00:07:05,801 --> 00:07:06,840
+Así que ve allí.
+¿Dónde están?
+
+152
+00:07:06,885 --> 00:07:09,400
+Palo Alto. California, nene.
+
+153
+00:07:09,471 --> 00:07:10,760
+¡A surfear, amigo!
+
+154
+00:07:10,806 --> 00:07:13,200
+Ve allí a ver, pero contrata
+a alguien que sepa de laboratorios
+
+155
+00:07:13,267 --> 00:07:14,680
+para que eche un vistazo a todo.
+
+156
+00:07:14,726 --> 00:07:16,320
+¿De acuerdo? ¿Quién es ese sujeto
+con el que trabajamos?
+
+157
+00:07:16,395 --> 00:07:17,880
+Kevin.
+
+158
+00:07:17,938 --> 00:07:19,920
+Kev-Kevin Hunter. Hunter.
+
+159
+00:07:19,982 --> 00:07:21,880
+¿Quién es Kevin Hunter?
+
+160
+00:07:33,287 --> 00:07:35,000
+¿Sabes qué?
+No tiene sentido.
+
+161
+00:07:35,080 --> 00:07:36,400
+Disculpe.
+
+162
+00:07:36,498 --> 00:07:38,760
+Hola, ¿puede traerme
+un par de pretzels más, por favor?
+
+163
+00:07:38,834 --> 00:07:39,834
+Cielos, Kev.
+
+164
+00:07:39,877 --> 00:07:41,040
+¿Qué?
+
+165
+00:07:41,128 --> 00:07:44,320
+Oye, ¿por qué Theranos no busca
+la aprobación directa de la FDA?
+
+166
+00:07:44,381 --> 00:07:45,880
+Ya lo repasé.
+
+167
+00:07:46,133 --> 00:07:48,120
+Mientras que esperan
+que la FDA lo apruebe,
+
+168
+00:07:48,177 --> 00:07:50,280
+hallaron el modo
+de avanzar sin ellos.
+
+169
+00:07:50,345 --> 00:07:53,000
+Es una alternativa.
+Y es una zona gris a nivel legal.
+
+170
+00:07:53,056 --> 00:07:55,360
+Si dices que los análisis
+se desarrollan en laboratorio,
+
+171
+00:07:55,434 --> 00:07:57,360
+puedes saltear
+la aprobación de la FDA...
+
+172
+00:07:57,436 --> 00:07:58,720
+Gracias.
+
+173
+00:08:02,441 --> 00:08:04,400
+¿Los guardas para el invierno?
+
+174
+00:08:04,443 --> 00:08:05,880
+Son gratis.
+
+175
+00:08:05,944 --> 00:08:08,360
+Pero, mira, si dices que estos análisis
+se desarrollan en laboratorio,
+
+176
+00:08:08,405 --> 00:08:10,960
+eso solo funciona
+si las muestras de sangre se procesan
+
+177
+00:08:11,033 --> 00:08:13,520
+en un laboratorio certificado,
+no en un dispositivo portátil.
+
+178
+00:08:13,577 --> 00:08:15,280
+Van a tener comida allí, sabes.
+
+179
+00:08:15,329 --> 00:08:16,720
+Así que, ¿por qué dicen
+
+180
+00:08:16,788 --> 00:08:19,120
+que hacen el análisis
+en un dispositivo portátil?
+
+181
+00:08:19,166 --> 00:08:21,040
+- ¿Entiendes a qué me refiero?
+- Sí, sí.
+
+182
+00:08:21,084 --> 00:08:23,000
+Pero es solo por ahora.
+
+183
+00:08:23,337 --> 00:08:25,000
+No tiene sentido.
+
+184
+00:08:28,217 --> 00:08:29,360
+Oye.
+
+185
+00:08:30,260 --> 00:08:32,560
+¿Por casualidad viste
+el final de Un sueño posible?
+
+186
+00:08:32,638 --> 00:08:34,264
+No, no lo vi.
+
+187
+00:08:34,932 --> 00:08:35,920
+De acuerdo, gente,
+
+188
+00:08:35,974 --> 00:08:39,000
+comenzaremos a prepararnos
+para el descenso en San Francisco.
+
+189
+00:08:39,061 --> 00:08:40,800
+Es un hermoso día en California.
+
+190
+00:08:40,854 --> 00:08:42,481
+18°C.
+
+191
+00:08:51,990 --> 00:08:53,520
+Hola, Cynthia.
+
+192
+00:08:53,700 --> 00:08:55,160
+¿Sabe mi nombre?
+
+193
+00:08:55,202 --> 00:08:58,640
+La mayoría de la gente
+me llama la nueva asistente de Elizabeth.
+
+194
+00:08:58,705 --> 00:09:01,320
+Dime, ¿cómo van las cosas
+en el mundo alfombrado?
+
+195
+00:09:01,375 --> 00:09:02,640
+Disculpen.
+
+196
+00:09:02,709 --> 00:09:05,240
+Debemos mantener
+el vestíbulo despejado.
+
+197
+00:09:06,088 --> 00:09:08,240
+Lo siento.
+Gusto en conocerte.
+
+198
+00:09:13,929 --> 00:09:15,040
+¿Alguien más se percató
+
+199
+00:09:15,097 --> 00:09:18,120
+de que parecen haber más guardias
+armados en el vestíbulo que de costumbre?
+
+200
+00:09:18,183 --> 00:09:19,280
+Hola, Brendan.
+
+201
+00:09:19,351 --> 00:09:21,680
+- Ian.
+- Siempre es maravilloso verte.
+
+202
+00:09:21,728 --> 00:09:23,840
+- ¿Cómo estás?
+- Eh, ¿dónde están los demás análisis?
+
+203
+00:09:23,897 --> 00:09:25,600
+Bien, te lo dije ayer.
+
+204
+00:09:25,649 --> 00:09:26,840
+Los ensayos no están listos.
+
+205
+00:09:26,900 --> 00:09:29,320
+No se pueden reproducir
+en el dispositivo.
+
+206
+00:09:29,361 --> 00:09:31,160
+Enormes currículums.
+
+207
+00:09:31,238 --> 00:09:33,760
+De acuerdo, bien, ¿intentaste abordar
+el problema de forma sistemática,
+
+208
+00:09:33,824 --> 00:09:36,000
+como con un diseño anidado escalonado
+
+209
+00:09:36,076 --> 00:09:38,400
+o te diviertes más quejándote
+
+210
+00:09:38,453 --> 00:09:41,160
+y preparando té
+y siendo un maldito británico?
+
+211
+00:09:41,206 --> 00:09:45,085
+Me divierto más
+siendo un maldito británico.
+
+212
+00:09:48,881 --> 00:09:50,600
+¿Tienes otra taza?
+
+213
+00:09:52,050 --> 00:09:53,000
+Oigan todos.
+
+214
+00:09:53,051 --> 00:09:54,120
+Maldita sea, aquí vamos.
+
+215
+00:09:54,178 --> 00:09:55,560
+¡Escuchen!
+
+216
+00:09:55,888 --> 00:09:58,680
+Tendremos reuniones importantes
+en los próximos dos días.
+
+217
+00:09:58,724 --> 00:09:59,920
+- ¿Con quién se reunirán?
+- ¡Negocios de alto nivel!
+
+218
+00:09:59,975 --> 00:10:01,440
+Deben haberse quedado
+sin dinero. Otra vez.
+
+219
+00:10:01,518 --> 00:10:05,000
+Necesitaremos que todos
+se queden en los laboratorios
+
+220
+00:10:05,063 --> 00:10:07,080
+a menos que se les diga
+específicamente que pueden irse.
+
+221
+00:10:07,149 --> 00:10:09,040
+¿Qué hay si debemos hacer pipí?
+
+222
+00:10:09,109 --> 00:10:10,480
+¿O popó?
+
+223
+00:10:10,527 --> 00:10:12,400
+Es solo por unas horas, ¿de acuerdo?
+
+224
+00:10:12,446 --> 00:10:14,640
+Y tacos para la cena de esta noche.
+
+225
+00:10:14,698 --> 00:10:15,760
+Tacos.
+
+226
+00:10:15,824 --> 00:10:18,640
+Los tacos hacen todo mejor.
+
+227
+00:10:18,702 --> 00:10:20,746
+Gracias, Daniel.
+
+228
+00:10:22,289 --> 00:10:24,680
+Los malditos subordinados de Sunny.
+
+229
+00:10:24,875 --> 00:10:27,600
+En cuanto a los ensayos,
+Frances sabe dónde...
+
+230
+00:10:27,669 --> 00:10:30,339
+Frances ya no trabaja aquí.
+
+231
+00:10:30,923 --> 00:10:33,800
+- ¿A qué te refieres?
+- Digo, Sunny la despidió.
+
+232
+00:10:33,967 --> 00:10:35,920
+Recursos Humanos vino
+y la acompañó hasta afuera del edificio.
+
+233
+00:10:35,969 --> 00:10:37,120
+La hicieron desaparecer.
+
+234
+00:10:37,179 --> 00:10:38,480
+Bromeas.
+
+235
+00:10:42,226 --> 00:10:44,000
+Se acabó. ¡Se acabó!
+
+236
+00:10:45,979 --> 00:10:49,399
+Sunny, tengo que hablar contigo.
+
+237
+00:10:50,442 --> 00:10:52,640
+Entiendo que despediste a Frances.
+
+238
+00:10:52,694 --> 00:10:55,280
+Ella dejó entrar a su esposo
+al laboratorio sin permiso.
+
+239
+00:10:55,322 --> 00:10:57,360
+- Fue castigada.
+- ¿Castigada?
+
+240
+00:10:57,407 --> 00:11:00,320
+Ellos son científicos, no niños.
+
+241
+00:11:00,369 --> 00:11:02,600
+Lo siento mucho,
+pero debo decir esto.
+
+242
+00:11:02,663 --> 00:11:04,240
+Desde que comenzaste
+a trabajar aquí,
+
+243
+00:11:04,289 --> 00:11:06,320
+la alegría,
+
+244
+00:11:06,375 --> 00:11:09,040
+la, la camaradería ha desaparecido.
+
+245
+00:11:09,086 --> 00:11:13,840
+Elizabeth no me habla, solo le importa
+el dinero y los inversores.
+
+246
+00:11:13,882 --> 00:11:16,560
+- Esto es una prisión.
+- Ian. Terminamos.
+
+247
+00:11:16,635 --> 00:11:17,360
+Tengo mucho que hacer hoy.
+
+248
+00:11:17,428 --> 00:11:19,240
+Sí, sé que tienes
+una reunión importante.
+
+249
+00:11:19,304 --> 00:11:21,560
+¿Sobre qué es la reunión?
+¿Con quién te reunirás?
+
+250
+00:11:21,640 --> 00:11:23,240
+Ian, terminamos.
+
+251
+00:11:24,560 --> 00:11:26,600
+¿Proyecto Beta?
+¿Qué es Proyecto Beta?
+
+252
+00:11:26,645 --> 00:11:28,280
+Solo se te dirá
+lo estrictamente necesario.
+
+253
+00:11:28,355 --> 00:11:29,480
+Soy el jefe de química.
+
+254
+00:11:29,523 --> 00:11:30,800
+¡Fuera!
+
+255
+00:11:31,275 --> 00:11:32,480
+Ahora.
+
+256
+00:11:32,818 --> 00:11:34,720
+No necesitas a Frances.
+
+257
+00:11:34,987 --> 00:11:36,840
+Contrata a un químico nuevo.
+
+258
+00:11:36,905 --> 00:11:38,840
+Todos son reemplazables.
+
+259
+00:11:56,800 --> 00:11:58,200
+Mira. Guau.
+
+260
+00:11:59,887 --> 00:12:01,360
+Vidi vici.
+
+261
+00:12:01,430 --> 00:12:04,200
+Vine, lo vi, conquisté.
+
+262
+00:12:04,266 --> 00:12:06,840
+Es solo lo vi, lo conquisté.
+No hay veni.
+
+263
+00:12:07,561 --> 00:12:09,560
+El "vine" está implícito.
+
+264
+00:12:13,984 --> 00:12:15,485
+Sr. Kevin.
+
+265
+00:12:16,612 --> 00:12:18,280
+Muy bien, Roland.
+
+266
+00:12:21,325 --> 00:12:23,040
+Hola, Walgreens.
+
+267
+00:12:23,118 --> 00:12:25,000
+Bienvenidos a Theranos.
+
+268
+00:12:26,538 --> 00:12:29,040
+Nos alegra mucho que hayan podido
+venir hasta aquí a California.
+
+269
+00:12:29,082 --> 00:12:30,360
+Él es Daniel Young,
+
+270
+00:12:30,417 --> 00:12:33,920
+director superior de Sistemas
+y Biociencias Informáticas Theranos.
+
+271
+00:12:33,921 --> 00:12:35,520
+Viene del MIT.
+
+272
+00:12:35,589 --> 00:12:36,720
+Hola, mucho gusto.
+
+273
+00:12:36,798 --> 00:12:37,840
+Jay Rosen.
+
+274
+00:12:37,883 --> 00:12:40,960
+Pero llámenme Dr. J
+porque solía jugar al básquetbol.
+
+275
+00:12:42,596 --> 00:12:44,760
+El Dr. J era un famoso
+jugador de básquetbol,
+
+276
+00:12:44,806 --> 00:12:46,160
+pero él no lo es.
+
+277
+00:12:46,225 --> 00:12:47,640
+No lo eres.
+
+278
+00:12:50,771 --> 00:12:52,200
+Soy Roland. Hola.
+
+279
+00:12:52,272 --> 00:12:52,920
+Hola.
+
+280
+00:12:52,982 --> 00:12:55,760
+¿Quieren comenzar mostrándonos
+el laboratorio?
+
+281
+00:13:00,030 --> 00:13:01,920
+Soy Kevin Hunter.
+
+282
+00:13:01,990 --> 00:13:05,200
+Walgreens me contrató para evaluar
+el laboratorio y la tecnología.
+
+283
+00:13:05,244 --> 00:13:09,540
+No nos dimos cuenta
+de que vendrías en persona.
+
+284
+00:13:10,666 --> 00:13:12,080
+Aquí estoy.
+
+285
+00:13:12,584 --> 00:13:13,960
+Así que...
+
+286
+00:13:14,962 --> 00:13:16,960
+¿dónde es el laboratorio?
+
+287
+00:13:18,924 --> 00:13:21,920
+¿Por qué no, por qué no firmamos
+acuerdos de confidencialidad
+
+288
+00:13:21,969 --> 00:13:24,000
+y comemos unos tentempiés?
+
+289
+00:13:25,931 --> 00:13:28,560
+Acuerdos de confidencialidad
+y tentempiés.
+
+290
+00:13:28,934 --> 00:13:30,400
+Emocionante.
+
+291
+00:13:34,147 --> 00:13:37,240
+Este lugar es bonito.
+¿Quién no querría trabajar aquí?
+
+292
+00:13:39,361 --> 00:13:40,400
+Te dije que tendrían comida.
+
+293
+00:13:40,445 --> 00:13:42,720
+Mira, barras Clif.
+
+294
+00:13:42,781 --> 00:13:45,600
+Por favor, no abras eso aquí.
+Tengo alergia al cacahuate.
+
+295
+00:13:45,659 --> 00:13:48,880
+¿De veras creyeron que no vendría
+a ver los laboratorios?
+
+296
+00:13:48,996 --> 00:13:50,160
+Digo,
+
+297
+00:13:50,497 --> 00:13:51,680
+¿no les parece sospechoso?
+
+298
+00:13:51,748 --> 00:13:52,600
+Es un negocio emergente.
+
+299
+00:13:52,667 --> 00:13:54,840
+Están resolviendo algunas cosas.
+
+300
+00:13:54,918 --> 00:13:56,440
+Cuando yo comencé mi empresa emergente,
+hice...
+
+301
+00:13:56,503 --> 00:13:58,120
+¿Cuándo fue eso?
+
+302
+00:13:58,297 --> 00:13:59,880
+En los años 90.
+
+303
+00:14:00,424 --> 00:14:02,480
+Solo digo, es difícil.
+
+304
+00:14:02,551 --> 00:14:03,960
+Estresante.
+
+305
+00:14:04,678 --> 00:14:07,040
+Pero, guau,
+me encanta este espacio.
+
+306
+00:14:08,307 --> 00:14:10,360
+Una planta abierta. Genial.
+
+307
+00:14:10,559 --> 00:14:12,640
+¿Tú tienes una planta abierta?
+
+308
+00:14:12,686 --> 00:14:15,479
+Tengo una consultora farmacéutica
+en Florida, Jay.
+
+309
+00:14:15,480 --> 00:14:16,080
+Deberías intentarlo.
+
+310
+00:14:16,149 --> 00:14:19,400
+Una planta abierta significa
+que la gente puede compartir, conectarse.
+
+311
+00:14:19,443 --> 00:14:21,800
+Sin jerarquías.
+La mejor idea gana.
+
+312
+00:14:21,987 --> 00:14:24,520
+Mucha seguridad para un lugar
+con una planta abierta.
+
+313
+00:14:24,573 --> 00:14:25,720
+Sí, y te diré algo.
+
+314
+00:14:25,782 --> 00:14:27,160
+No tienes seguridad como esta
+
+315
+00:14:27,201 --> 00:14:28,520
+si no trabajas en algo grande.
+
+316
+00:14:28,577 --> 00:14:29,840
+Cierto. Así es.
+
+317
+00:14:29,912 --> 00:14:32,360
+Dr. J., ¿puedo hablar,
+con usted en privado?
+
+318
+00:14:32,414 --> 00:14:33,640
+Claro.
+
+319
+00:14:36,001 --> 00:14:37,560
+- Hola.
+- Hola.
+
+320
+00:14:45,260 --> 00:14:47,304
+Es sobre Kevin, ¿verdad?
+
+321
+00:14:47,888 --> 00:14:51,600
+Wade quiere que le garanticen que están
+listos para incorporarlo en las tiendas.
+
+322
+00:14:51,642 --> 00:14:53,320
+Solo necesitamos ver
+los laboratorios.
+
+323
+00:14:53,393 --> 00:14:55,320
+Puede ser rápido.
+¿Por qué no terminar con esto?
+
+324
+00:14:55,395 --> 00:14:56,920
+Esto es serio.
+
+325
+00:14:57,314 --> 00:15:01,318
+Tengo que hablar con usted
+sobre algo muy... delicado.
+
+326
+00:15:01,652 --> 00:15:03,160
+Por supuesto.
+
+327
+00:15:03,403 --> 00:15:05,400
+¿Alguien quiere más jugo?
+
+328
+00:15:06,240 --> 00:15:08,408
+Ya sabes, estoy lleno.
+
+329
+00:15:10,327 --> 00:15:13,080
+Mi seguridad hizo una revisión
+de antecedentes de Kevin.
+
+330
+00:15:13,121 --> 00:15:15,880
+¿Sabía que él trabajaba
+en Quest Diagnostics?
+
+331
+00:15:15,958 --> 00:15:17,640
+Pensé que era algo grave.
+
+332
+00:15:17,709 --> 00:15:20,240
+Sí. Lo sabíamos.
+Por eso lo contratamos.
+
+333
+00:15:20,796 --> 00:15:22,400
+Bien, entre nosotros,
+tenemos pruebas
+
+334
+00:15:22,464 --> 00:15:26,160
+de que Quest está tratando de duplicar
+nuestra tecnología para ellos.
+
+335
+00:15:26,218 --> 00:15:28,120
+¿De verdad?
+¿Cuáles son las pruebas?
+
+336
+00:15:28,178 --> 00:15:30,960
+No puedo revelarlo.
+Seguro que entiende.
+
+337
+00:15:31,014 --> 00:15:32,400
+La gente hace estas cosas.
+
+338
+00:15:32,474 --> 00:15:34,000
+Sí. Seguro.
+Espionaje corporativo.
+
+339
+00:15:34,059 --> 00:15:37,040
+Así que obviamente somos reacios
+a que Kevin Hunter
+
+340
+00:15:37,104 --> 00:15:39,480
+recorra nuestros laboratorios
+en esta etapa.
+
+341
+00:15:39,523 --> 00:15:41,040
+Espera, no creen que él aún
+
+342
+00:15:41,108 --> 00:15:43,520
+está en contacto con ellos, ¿verdad?
+
+343
+00:15:49,408 --> 00:15:51,480
+¿Hace cuánto tiempo
+conoces a Elizabeth?
+
+344
+00:15:51,535 --> 00:15:52,480
+Unos años.
+
+345
+00:15:52,536 --> 00:15:53,920
+Es genial.
+
+346
+00:15:55,998 --> 00:15:57,840
+Ella parece agradable.
+
+347
+00:16:01,587 --> 00:16:03,320
+Bien, así que, Kev,
+
+348
+00:16:04,214 --> 00:16:05,960
+no veremos el laboratorio hoy, amigo.
+
+349
+00:16:06,008 --> 00:16:07,920
+¿Qué? ¿Por qué no?
+
+350
+00:16:07,968 --> 00:16:09,120
+No les avisaste
+con suficiente antelación.
+
+351
+00:16:09,178 --> 00:16:11,880
+Sí que lo hice.
+Le dije a su oficina hace dos semanas,
+
+352
+00:16:11,930 --> 00:16:13,960
+debo ver los laboratorios.
+
+353
+00:16:14,224 --> 00:16:16,040
+Para eso me contrataron.
+
+354
+00:16:16,101 --> 00:16:17,240
+Por esa razón estoy aquí.
+
+355
+00:16:17,311 --> 00:16:19,800
+No puedo hacer mi trabajo
+si no puedo ver los laboratorios.
+
+356
+00:16:19,855 --> 00:16:21,640
+¿Continuamos, el recorrido?
+
+357
+00:16:21,690 --> 00:16:22,800
+No.
+
+358
+00:16:24,109 --> 00:16:26,000
+¿Necesitas algo, Kevin?
+
+359
+00:16:26,695 --> 00:16:28,320
+Lo siento, yo...
+
+360
+00:16:31,450 --> 00:16:33,240
+¿Puedo usar el baño?
+
+361
+00:16:41,877 --> 00:16:43,400
+Te acompañaré.
+
+362
+00:16:43,712 --> 00:16:44,800
+No, está bien, lo encontraré.
+
+363
+00:16:44,880 --> 00:16:46,600
+Por favor, insisto.
+
+364
+00:16:57,518 --> 00:16:58,320
+Tú,
+
+365
+00:16:58,394 --> 00:17:00,360
+de verdad no tienes
+que hacer esto.
+
+366
+00:17:00,437 --> 00:17:02,400
+No quiero que te pierdas.
+
+367
+00:17:08,403 --> 00:17:09,821
+EQUIPO
+
+368
+00:17:12,950 --> 00:17:14,640
+¿Entrarás conmigo?
+
+369
+00:17:16,245 --> 00:17:17,880
+Esperaré afuera.
+
+370
+00:17:47,901 --> 00:17:50,360
+Sabes, estoy tratando de hacer
+el trabajo para el que me contrataste.
+
+371
+00:17:50,404 --> 00:17:52,155
+Gracias. Muy bien.
+
+372
+00:17:54,658 --> 00:17:55,800
+¿Ese es Jack Dorsey?
+
+373
+00:17:55,868 --> 00:17:57,160
+¿Quién es Jack Dorsey?
+
+374
+00:17:57,202 --> 00:17:58,320
+El sujeto de Twitter.
+
+375
+00:17:58,370 --> 00:17:59,720
+¿El sujeto de Twitter?
+
+376
+00:17:59,788 --> 00:18:01,000
+Es él.
+
+377
+00:18:03,000 --> 00:18:04,360
+No lo es.
+
+378
+00:18:04,668 --> 00:18:06,960
+Necesito que realicen
+un análisis de vitamina D.
+
+379
+00:18:07,004 --> 00:18:07,720
+Necesito ver los laboratorios.
+
+380
+00:18:07,797 --> 00:18:10,200
+- Oigan, es Wade. Hola, Wade.
+- Hola.
+
+381
+00:18:10,507 --> 00:18:11,720
+- Hola, chicos.
+- Hola, Wade.
+
+382
+00:18:11,800 --> 00:18:12,520
+¿Cómo están todos?
+
+383
+00:18:12,594 --> 00:18:14,040
+Sabes, no tienes silla.
+
+384
+00:18:14,094 --> 00:18:15,000
+Toma la mía.
+
+385
+00:18:15,054 --> 00:18:16,320
+¿En qué estamos?
+
+386
+00:18:16,388 --> 00:18:17,480
+Cuéntenme. Oh.
+
+387
+00:18:17,556 --> 00:18:18,880
+¿Cómo te fue con Express Scripts?
+
+388
+00:18:18,932 --> 00:18:19,840
+¿Terminarás ese sándwich?
+
+389
+00:18:19,893 --> 00:18:21,800
+¿Estamos más cerca del acuerdo?
+
+390
+00:18:21,852 --> 00:18:22,600
+¿Cómo estuvo el vuelo?
+
+391
+00:18:22,645 --> 00:18:25,280
+A quién le importa mi vuelo.
+¿Qué está pasando?
+
+392
+00:18:25,355 --> 00:18:27,120
+¿Qué te parecieron los laboratorios?
+
+393
+00:18:27,191 --> 00:18:28,920
+¿Quieres decírselo?
+
+394
+00:18:29,067 --> 00:18:30,040
+Sí.
+
+395
+00:18:30,110 --> 00:18:32,440
+Están muy preocupados
+por la seguridad.
+
+396
+00:18:32,487 --> 00:18:34,400
+- Bien.
+- Tienen protocolos muy estrictos.
+
+397
+00:18:34,448 --> 00:18:36,480
+No vimos los laboratorios.
+
+398
+00:18:36,658 --> 00:18:37,680
+¿A qué te refieres
+con que no vieron los laboratorios?
+
+399
+00:18:37,743 --> 00:18:39,720
+Nos hicieron un recorrido
+de sus oficinas y demás.
+
+400
+00:18:39,786 --> 00:18:41,840
+Y, Sunny Balwani nos mostró
+una bolsa de dormir.
+
+401
+00:18:41,914 --> 00:18:42,840
+¿Por qué no vieron el dispositivo?
+
+402
+00:18:42,915 --> 00:18:46,120
+Sinceramente, les preocupa
+que Kevin trabajaba en Quest.
+
+403
+00:18:46,168 --> 00:18:47,440
+Quest es su principal competidor.
+
+404
+00:18:47,503 --> 00:18:48,320
+Quest no es un competidor.
+
+405
+00:18:48,379 --> 00:18:50,040
+Quest ni siquiera sabe que existen.
+
+406
+00:18:50,088 --> 00:18:51,480
+Están paranoicos.
+
+407
+00:18:51,548 --> 00:18:52,680
+Él me siguió al baño.
+
+408
+00:18:52,758 --> 00:18:54,160
+- ¿Qué?
+- ¿Pero realmente tenías
+
+409
+00:18:54,218 --> 00:18:55,360
+que ir al baño?
+
+410
+00:18:55,427 --> 00:18:56,320
+Esa parte no importa.
+
+411
+00:18:56,387 --> 00:18:57,960
+¿Quién te siguió al baño?
+
+412
+00:18:58,013 --> 00:18:59,440
+Sunny Balwani,
+
+413
+00:18:59,515 --> 00:19:00,760
+el hombre
+con la bolsa de dormir.
+
+414
+00:19:00,807 --> 00:19:01,600
+Sí, sí.
+
+415
+00:19:01,601 --> 00:19:03,080
+¿Pero acaso el hecho de que tengan
+
+416
+00:19:03,143 --> 00:19:06,080
+seguridad tan rigurosa no prueba
+que son legítimos?
+
+417
+00:19:06,146 --> 00:19:07,920
+O si realizaran un análisis
+y nos mostraran los laboratorios,
+
+418
+00:19:07,981 --> 00:19:09,200
+eso probaría que son legítimos.
+
+419
+00:19:09,274 --> 00:19:11,280
+No sabes cómo funcionan
+estas empresas emergentes.
+
+420
+00:19:11,360 --> 00:19:12,560
+No, sé cómo funcionan
+los laboratorios,
+
+421
+00:19:12,611 --> 00:19:14,080
+y aquí algo está pasando.
+
+422
+00:19:14,154 --> 00:19:16,520
+¿Por qué, por qué no buscan
+activamente la aprobación de la FDA?
+
+423
+00:19:16,573 --> 00:19:20,320
+Las empresas emergentes siempre hacen
+acuerdos antes de la aprobación de la FDA.
+
+424
+00:19:20,369 --> 00:19:21,760
+Sí, ¿pero quién los supervisa?
+
+425
+00:19:21,828 --> 00:19:22,381
+Cierto.
+
+426
+00:19:22,422 --> 00:19:23,960
+Solo sabemos lo que ponen
+en su propia bibliografía,
+
+427
+00:19:24,039 --> 00:19:27,040
+que-que Theranos ha sido,
+¿qué es?
+
+428
+00:19:27,084 --> 00:19:29,160
+- Él está muy preparado.
+- Son microvegetales.
+
+429
+00:19:29,211 --> 00:19:29,880
+Maravilloso.
+
+430
+00:19:29,921 --> 00:19:31,680
+- ¿Qué son los microvegetales?
+- Ensalada.
+
+431
+00:19:31,755 --> 00:19:34,400
+Theranos ha sido validada
+ampliamente en los últimos siete años
+
+432
+00:19:34,466 --> 00:19:37,440
+por una mayoría de las empresas
+farmacéuticas más grandes.
+
+433
+00:19:37,511 --> 00:19:39,840
+Llamé a las farmacéuticas,
+ninguna siquiera me responde la llamada.
+
+434
+00:19:39,888 --> 00:19:41,320
+Mira, es un riesgo,
+
+435
+00:19:41,390 --> 00:19:43,600
+pero todo es riesgoso ahora.
+
+436
+00:19:43,642 --> 00:19:45,040
+La economía está en crisis.
+
+437
+00:19:45,102 --> 00:19:47,240
+Las empresas emergentes son
+las únicas que ganan dinero.
+
+438
+00:19:47,312 --> 00:19:49,440
+Echa un vistazo a este hotel.
+
+439
+00:19:49,815 --> 00:19:52,680
+Twitter vale 3.600 millones.
+
+440
+00:19:52,734 --> 00:19:53,360
+Twitter no saca sangre.
+
+441
+00:19:53,403 --> 00:19:55,640
+UberCab fue valuada
+el año pasado...
+
+442
+00:19:55,696 --> 00:19:56,640
+¿Qué es UberCab?
+
+443
+00:19:56,697 --> 00:19:59,920
+Creo que es la que te permite
+pagar un taxi por teléfono.
+
+444
+00:19:59,992 --> 00:20:01,280
+- ¿No? ¿No es así?
+- Así es.
+
+445
+00:20:01,326 --> 00:20:03,640
+¡Cielos!
+Yo podría haber pensado en eso.
+
+446
+00:20:03,704 --> 00:20:06,200
+Pudiste haber usado eso,
+¿verdad, Wade?
+
+447
+00:20:07,958 --> 00:20:09,360
+¿A qué te refieres?
+
+448
+00:20:09,418 --> 00:20:12,560
+Por esa multa por conducir ebrio
+que acabas de recibir.
+
+449
+00:20:16,466 --> 00:20:18,960
+Vamos, podemos reírnos
+de eso, ¿verdad?
+
+450
+00:20:22,764 --> 00:20:25,880
+No firmaremos a menos que veamos
+el dispositivo, los laboratorios, todo.
+
+451
+00:20:25,934 --> 00:20:27,320
+Kevin, hazte cargo.
+
+452
+00:20:27,394 --> 00:20:28,680
+Gracias.
+
+453
+00:20:35,068 --> 00:20:36,560
+Está picante.
+
+454
+00:20:38,655 --> 00:20:41,520
+La clienta presentó la demanda
+10 meses después.
+
+455
+00:20:43,994 --> 00:20:45,560
+Está clarísimo.
+
+456
+00:20:47,456 --> 00:20:48,920
+¿Qué sucede?
+
+457
+00:20:49,082 --> 00:20:50,120
+Nada.
+
+458
+00:20:50,167 --> 00:20:51,280
+Ian.
+
+459
+00:20:51,335 --> 00:20:52,600
+Bien...
+
+460
+00:20:54,379 --> 00:20:56,798
+Están teniendo reuniones secretas.
+
+461
+00:20:57,424 --> 00:20:58,920
+No entiendo qué buscan,
+
+462
+00:20:58,967 --> 00:21:02,679
+pero... no tengo una buena sensación.
+
+463
+00:21:03,555 --> 00:21:05,400
+¿Elizabeth no te dice
+con quién se reúne ni por qué?
+
+464
+00:21:05,474 --> 00:21:07,040
+- No, no.
+- Eres el jefe de química.
+
+465
+00:21:07,100 --> 00:21:08,920
+Digo, llevas años
+trabajando allí.
+
+466
+00:21:08,977 --> 00:21:10,000
+Lo que no entiendo es que
+
+467
+00:21:10,062 --> 00:21:12,200
+Elizabeth no me dirige la palabra.
+
+468
+00:21:12,272 --> 00:21:14,320
+Bien, ¿quién te habla a ti?
+
+469
+00:21:32,584 --> 00:21:33,880
+Cynthia.
+
+470
+00:21:34,419 --> 00:21:36,440
+Ian, hola.
+
+471
+00:21:36,505 --> 00:21:38,080
+Oye, sé que estás muy ocupada,
+
+472
+00:21:38,131 --> 00:21:39,880
+pero me preguntaba,
+
+473
+00:21:39,925 --> 00:21:42,240
+¿ya llegaron todos
+para la reunión de hoy?
+
+474
+00:21:42,302 --> 00:21:44,600
+Están en la sala de conferencias.
+
+475
+00:21:47,057 --> 00:21:48,840
+Elizabeth está con Sunny
+terminando algo.
+
+476
+00:21:48,892 --> 00:21:50,760
+Estarán allí enseguida.
+
+477
+00:21:50,811 --> 00:21:52,360
+¿Ibas a esa reunión?
+
+478
+00:21:52,437 --> 00:21:53,160
+Tu nombre no está en la lista.
+
+479
+00:21:53,231 --> 00:21:55,439
+No, no, no.
+No verás mi nombre allí.
+
+480
+00:21:55,440 --> 00:21:59,880
+E-Elizabeth me pidió que repasara
+el material de la presentación.
+
+481
+00:21:59,945 --> 00:22:02,240
+Me preguntaba
+si tienes una copia.
+
+482
+00:22:03,657 --> 00:22:06,910
+Ella dijo que debo preguntarte,
+sobre el Proyecto Beta.
+
+483
+00:22:09,121 --> 00:22:11,498
+Proyecto Beta. Por supuesto.
+
+484
+00:22:17,963 --> 00:22:19,840
+La plantilla de presentación
+para Walgreens.
+
+485
+00:22:19,882 --> 00:22:20,960
+¿Wal-Walgreens?
+
+486
+00:22:21,008 --> 00:22:23,160
+¿O querías ver la de Safeway?
+
+487
+00:22:24,553 --> 00:22:27,200
+No, esta, esta está bien.
+
+488
+00:22:27,264 --> 00:22:30,360
+THERANOS EN 90 TIENDAS WALGREENS
+PARA MEDIADOS DE 2011
+
+489
+00:22:31,393 --> 00:22:33,520
+Nunca sé qué hacen
+allí en los laboratorios,
+
+490
+00:22:33,562 --> 00:22:35,520
+pero es muy emocionante.
+
+491
+00:22:35,814 --> 00:22:38,560
+Y Theranos estará
+en las tiendas. Con suerte.
+
+492
+00:22:39,902 --> 00:22:41,960
+Veamos cómo van
+los próximos dos días.
+
+493
+00:22:42,029 --> 00:22:43,200
+PODEMOS REALIZAR NUESTROS
+ANÁLISIS DE SANGRE
+
+494
+00:22:43,280 --> 00:22:44,183
+CON UNA MUESTRA DE TAN
+SOLO 1/1000 DEL TAMAÑO
+
+495
+00:22:44,224 --> 00:22:46,200
+DE UNA EXTRACCIÓN
+DE SANGRE TÍPICA
+
+496
+00:22:46,241 --> 00:22:48,202
+Gracias, Cynthia.
+
+497
+00:22:49,745 --> 00:22:51,480
+Creo que ya están saliendo.
+
+498
+00:22:51,538 --> 00:22:53,800
+¿Querías decirle lo que piensas?
+
+499
+00:23:07,971 --> 00:23:11,160
+Caballeros. Hola, hola, hola.
+Hola, Wade.
+
+500
+00:23:11,225 --> 00:23:13,080
+Nos alegra mucho
+que puedas acompañarnos aquí.
+
+501
+00:23:13,143 --> 00:23:14,200
+Genial, gracias.
+
+502
+00:23:14,269 --> 00:23:15,520
+Pero quiero hablarles
+sobre por qué mi...
+
+503
+00:23:15,562 --> 00:23:18,649
+En realidad, queremos presentarles
+algo muy especial.
+
+504
+00:23:19,608 --> 00:23:20,400
+En la Segunda Guerra Mundial,
+
+505
+00:23:20,443 --> 00:23:24,320
+Walgreens puso una farmacia sin fines
+de lucro en el Pentágono
+
+506
+00:23:24,363 --> 00:23:26,880
+para darles a los soldados
+los remedios que necesitaban.
+
+507
+00:23:26,949 --> 00:23:29,320
+Y en el mismo espíritu de patriotismo,
+
+508
+00:23:29,368 --> 00:23:32,120
+en nombre de todos nosotros aquí
+en Theranos,
+
+509
+00:23:32,663 --> 00:23:34,640
+queremos que tengan esto.
+
+510
+00:23:36,708 --> 00:23:41,520
+Esta bandera flameó
+sobre los campos de batalla de Afganistán.
+
+511
+00:23:41,588 --> 00:23:42,560
+Guau.
+
+512
+00:23:42,631 --> 00:23:45,200
+El General Mattis se unió al directorio.
+
+513
+00:23:45,676 --> 00:23:48,720
+Como pueden ver,
+Elizabeth firmó la bandera,
+
+514
+00:23:48,762 --> 00:23:50,880
+especialmente para ti, Wade.
+
+515
+00:23:51,431 --> 00:23:52,720
+Autografiaste una bandera.
+
+516
+00:23:52,766 --> 00:23:54,480
+Esto es genial. Gracias.
+
+517
+00:23:54,560 --> 00:23:56,000
+Pero debemos ver los laboratorios.
+
+518
+00:23:56,061 --> 00:23:59,773
+Wade, no es posible
+a menos que tengamos un acuerdo.
+
+519
+00:24:01,525 --> 00:24:03,360
+¿Lo hablamos en la cena?
+
+520
+00:24:03,402 --> 00:24:05,600
+- Tenemos...
+- Reservas ahora
+
+521
+00:24:05,654 --> 00:24:08,520
+en uno de los mejores restaurantes
+de la ciudad.
+
+522
+00:24:08,824 --> 00:24:09,800
+¿Ahora?
+
+523
+00:24:09,867 --> 00:24:10,880
+Son las 3:30.
+
+524
+00:24:10,951 --> 00:24:11,880
+Tenemos un salón privado.
+
+525
+00:24:11,952 --> 00:24:14,480
+Por cuestiones de seguridad, recomendamos
+salir en intervalos escalonados
+
+526
+00:24:14,538 --> 00:24:16,200
+para que nadie nos vea juntos.
+
+527
+00:24:16,248 --> 00:24:18,040
+Gran idea.
+¿Vamos nosotros?
+
+528
+00:24:18,083 --> 00:24:20,640
+Digo, ¿quieres que vayamos
+primero o...?
+
+529
+00:24:21,170 --> 00:24:23,520
+Parece que este lugar tiene
+muy buenas críticas en Yelp.
+
+530
+00:24:23,589 --> 00:24:25,400
+¿Dice si tienen
+teriyaki o algo así?
+
+531
+00:24:25,465 --> 00:24:27,080
+No pidas teriyaki.
+
+532
+00:24:27,134 --> 00:24:27,640
+¿Por qué?
+
+533
+00:24:27,719 --> 00:24:28,800
+Hay teriyaki... hacen teriyaki.
+
+534
+00:24:28,844 --> 00:24:31,160
+Sí, pero este es como el mejor
+restaurante de sushi de la ciudad.
+
+535
+00:24:31,221 --> 00:24:32,960
+No debes pedir teriyaki.
+
+536
+00:24:33,015 --> 00:24:34,240
+Puedes pedir teriyaki.
+
+537
+00:24:34,308 --> 00:24:35,600
+Nunca comí sushi.
+
+538
+00:24:35,601 --> 00:24:37,600
+No, es un insulto. Es como pedir
+una hamburguesa con queso.
+
+539
+00:24:37,644 --> 00:24:39,720
+Comí teriyaki en Tokio.
+Estaba bien.
+
+540
+00:24:39,771 --> 00:24:41,200
+Hola, Wade.
+
+541
+00:24:41,315 --> 00:24:43,400
+- Hola, chicos.
+- Hola, Wade.
+
+542
+00:24:43,650 --> 00:24:45,120
+Es un gran secreto
+que ellos están aquí.
+
+543
+00:24:45,194 --> 00:24:48,520
+Digo, es el auto más inconfundible
+que he visto.
+
+544
+00:24:48,572 --> 00:24:50,239
+Pero es genial, ¿eh?
+
+545
+00:24:50,240 --> 00:24:52,760
+Sabes, Wade, es genial
+que sean tan cuidadosos
+
+546
+00:24:52,826 --> 00:24:55,920
+porque nunca sabes quién te observa
+en Silicon Valley.
+
+547
+00:24:55,996 --> 00:24:58,920
+Jay, esto es ridículo, ¿bien?
+Están haciendo tiempo.
+
+548
+00:24:58,999 --> 00:25:02,480
+Y si no pueden comprometerse a mostrarnos
+los laboratorios en esta cena,
+
+549
+00:25:02,544 --> 00:25:03,720
+nos retiramos, ¿entendido?
+
+550
+00:25:03,795 --> 00:25:05,520
+- Bien.
+- ¿De acuerdo? Bien, vamos.
+
+551
+00:25:05,589 --> 00:25:06,400
+Vamos.
+
+552
+00:25:06,466 --> 00:25:09,520
+Danos algún tipo de señal
+si quieres que nos vayamos.
+
+553
+00:25:12,513 --> 00:25:15,360
+Creo que es un Countach...
+Un estilo de Lamborghini.
+
+554
+00:25:15,432 --> 00:25:16,880
+Nos dieron...
+
+555
+00:25:16,934 --> 00:25:19,320
+nos dieron un alias
+para la reserva.
+
+556
+00:25:19,853 --> 00:25:21,400
+Cielos. ¿Cuál?
+
+557
+00:25:23,106 --> 00:25:24,640
+Proyecto Beta.
+
+558
+00:25:31,698 --> 00:25:34,440
+Así que, este es el mejor lugar
+en la ciudad.
+
+559
+00:25:40,123 --> 00:25:41,680
+Los escalones.
+
+560
+00:25:42,417 --> 00:25:43,960
+- Hola.
+- Hola.
+
+561
+00:25:45,504 --> 00:25:46,760
+¿Qué vamos a comer?
+
+562
+00:25:46,839 --> 00:25:48,640
+¿A alguien le gusta el himachi kama?
+
+563
+00:25:48,715 --> 00:25:50,160
+Mi favorito.
+
+564
+00:25:50,509 --> 00:25:52,640
+Son mejillones cola amarilla.
+
+565
+00:25:53,262 --> 00:25:54,555
+Tú...
+
+566
+00:25:55,722 --> 00:25:56,680
+- ¿Nos sentamos?
+- Bien.
+
+567
+00:25:56,723 --> 00:25:58,000
+Sí, sí. Sí, seguro.
+
+568
+00:25:58,058 --> 00:25:59,680
+Bien.
+Yo iré por acá.
+
+569
+00:25:59,726 --> 00:26:00,920
+Bien.
+
+570
+00:26:03,397 --> 00:26:04,720
+Muy bien.
+
+571
+00:26:05,941 --> 00:26:07,160
+- ¿Estás bien?
+- Ups.
+
+572
+00:26:07,234 --> 00:26:08,240
+Estoy bien. Estoy bien.
+
+573
+00:26:08,318 --> 00:26:09,360
+- ¿Estás bien?
+- Sí.
+
+574
+00:26:09,361 --> 00:26:10,800
+De acuerdo.
+
+575
+00:26:31,758 --> 00:26:33,040
+Gracias.
+
+576
+00:26:33,427 --> 00:26:35,804
+Así que, ¿qué está pasando?
+
+577
+00:26:37,472 --> 00:26:38,880
+Ian, ¿qué sucede?
+
+578
+00:26:38,932 --> 00:26:40,880
+¿Es el cáncer?
+
+579
+00:26:40,934 --> 00:26:41,960
+No.
+
+580
+00:26:42,019 --> 00:26:44,120
+No, no, no. Es, es...
+
+581
+00:26:44,188 --> 00:26:45,606
+¿Elizabeth?
+
+582
+00:26:47,858 --> 00:26:49,520
+Estoy preocupado.
+
+583
+00:26:50,402 --> 00:26:52,760
+Bien, entonces yo estoy preocupado.
+
+584
+00:26:52,821 --> 00:26:54,280
+Las cosas...
+
+585
+00:26:54,990 --> 00:26:57,640
+Las cosas cambiaron tanto.
+
+586
+00:26:57,701 --> 00:26:59,240
+Ella cambió mucho.
+
+587
+00:26:59,286 --> 00:27:03,560
+La voz, el cuello alto,
+toda su conducta...
+
+588
+00:27:03,624 --> 00:27:07,680
+Y Sunny es, es problemático.
+
+589
+00:27:07,753 --> 00:27:09,240
+No es del agrado de todos.
+
+590
+00:27:09,296 --> 00:27:10,840
+No es solo él.
+
+591
+00:27:12,299 --> 00:27:13,720
+¿Qué te dijo ella?
+
+592
+00:27:13,800 --> 00:27:14,800
+¿Sobre Sunny?
+
+593
+00:27:14,801 --> 00:27:18,430
+No, sobre... lo que está pasando.
+
+594
+00:27:19,765 --> 00:27:21,280
+¿En Theranos?
+
+595
+00:27:21,683 --> 00:27:23,440
+Sé lo mismo que tú.
+
+596
+00:27:26,688 --> 00:27:28,240
+Ian, cuéntame.
+
+597
+00:27:28,315 --> 00:27:29,760
+Si hay algo mal, quiero saberlo.
+
+598
+00:27:29,816 --> 00:27:31,560
+Yo te metí en esto.
+
+599
+00:27:31,610 --> 00:27:33,200
+Quería hacer esto contigo.
+
+600
+00:27:33,278 --> 00:27:34,440
+Lo sé.
+
+601
+00:27:34,488 --> 00:27:36,280
+Bien, entonces,
+si hay algo que...
+
+602
+00:27:36,281 --> 00:27:40,035
+¡Ella planea poner
+las máquinas en las tiendas!
+
+603
+00:27:42,788 --> 00:27:44,760
+¡Con pacientes de verdad!
+
+604
+00:27:44,998 --> 00:27:46,800
+¡Pacientes, Channing!
+
+605
+00:27:47,543 --> 00:27:49,600
+Oh, ¿se trata de Walgreens?
+
+606
+00:27:51,380 --> 00:27:52,800
+¿Lo sabías?
+
+607
+00:27:53,131 --> 00:27:55,560
+Por supuesto.
+Estoy en el directorio.
+
+608
+00:27:59,179 --> 00:28:01,139
+¿Y... y están
+
+609
+00:28:01,849 --> 00:28:03,280
+están de acuerdo con eso?
+
+610
+00:28:03,350 --> 00:28:04,840
+Claro que sí.
+
+611
+00:28:06,019 --> 00:28:08,640
+Por lo que entiendo,
+la tecnología ya está casi lista,
+
+612
+00:28:08,689 --> 00:28:10,760
+y una vez que esté todo listo,
+
+613
+00:28:10,816 --> 00:28:13,200
+ella quiere tratar de expandir
+el directorio,
+
+614
+00:28:13,277 --> 00:28:14,880
+hacer algunas conexiones con el gobierno,
+
+615
+00:28:14,945 --> 00:28:17,320
+tratar de acelerar
+el proceso regulatorio.
+
+616
+00:28:17,364 --> 00:28:18,720
+¿Cuál...?
+
+617
+00:28:19,616 --> 00:28:21,440
+¿Cuál es el problema?
+
+618
+00:28:23,245 --> 00:28:25,000
+¿Cuál es el problema?
+
+619
+00:28:25,080 --> 00:28:29,960
+La tecnología no funciona, está a años
+de funcionar. La gente estará en riesgo...
+
+620
+00:28:30,002 --> 00:28:32,546
+Gente de verdad, Channing.
+
+621
+00:28:33,505 --> 00:28:35,924
+Gente... de verdad.
+
+622
+00:28:40,637 --> 00:28:42,360
+¿Le ponemos salsa de soja?
+
+623
+00:28:42,431 --> 00:28:44,080
+Para que quede claro,
+
+624
+00:28:44,141 --> 00:28:45,600
+cuando realizan la prueba
+de tiempo de protrombina,
+
+625
+00:28:45,642 --> 00:28:48,896
+¿agregan el factor tisular
+en el hemograma completo?
+
+626
+00:28:50,397 --> 00:28:51,520
+¿Qué hay de los anticoagulantes?
+
+627
+00:28:51,565 --> 00:28:53,160
+Es información confidencial.
+
+628
+00:28:53,233 --> 00:28:56,520
+Bien,
+¿es información confidencial
+
+629
+00:28:56,570 --> 00:28:59,280
+que sé que hablas con Steve Burd
+en Safeway?
+
+630
+00:28:59,990 --> 00:29:01,000
+¿Nos engañas?
+
+631
+00:29:01,074 --> 00:29:02,600
+Porque Safeway es un almacén,
+
+632
+00:29:02,659 --> 00:29:04,840
+y nosotros somos una farmacia.
+
+633
+00:29:04,912 --> 00:29:07,320
+¿Una red cuán amplia
+están lanzando exactamente?
+
+634
+00:29:07,372 --> 00:29:09,160
+Una red tan amplia como queremos.
+
+635
+00:29:09,208 --> 00:29:11,640
+Nuestra tecnología es
+extremadamente valiosa.
+
+636
+00:29:11,710 --> 00:29:15,320
+¿De veras? Porque no creo
+que actúen como una empresa
+
+637
+00:29:15,380 --> 00:29:17,080
+solvente a nivel financiero.
+
+638
+00:29:17,132 --> 00:29:19,560
+Creo que ustedes queman
+rápido el dinero,
+
+639
+00:29:19,635 --> 00:29:22,137
+y ahora están buscando
+un salvavidas.
+
+640
+00:29:28,977 --> 00:29:32,440
+Nosotros no somos quienes necesitamos
+un salvavidas aquí, Wade.
+
+641
+00:29:32,814 --> 00:29:34,120
+Oh, ¿sí?
+
+642
+00:29:34,483 --> 00:29:37,400
+¿Por qué llegaste un día tarde
+a nuestra reunión?
+
+643
+00:29:37,778 --> 00:29:40,040
+Eso es información confidencial.
+
+644
+00:29:42,407 --> 00:29:45,800
+Estabas en medio de tratar
+de renegociar tu contrato
+
+645
+00:29:45,869 --> 00:29:47,640
+con Express Scripts.
+
+646
+00:29:49,915 --> 00:29:53,160
+¿Express Scripts representa,
+siete por ciento de sus ingresos?
+
+647
+00:29:53,210 --> 00:29:54,280
+Y ellos lo saben.
+
+648
+00:29:54,336 --> 00:29:55,920
+Y ahora les están cobrando
+más de la cuenta
+
+649
+00:29:55,963 --> 00:29:58,340
+en nombre de las farmacéuticas.
+
+650
+00:29:58,799 --> 00:30:00,680
+Y tienen que aceptarlo.
+
+651
+00:30:01,301 --> 00:30:04,440
+Así que deberán encontrar
+una nueva fuente de ingresos.
+
+652
+00:30:06,265 --> 00:30:07,960
+Por ejemplo, un centro de bienestar.
+
+653
+00:30:08,016 --> 00:30:09,440
+Eres buena.
+
+654
+00:30:11,311 --> 00:30:12,600
+Ella es buena.
+
+655
+00:30:12,646 --> 00:30:14,960
+Todos hablan de bienestar,
+¿qué significa bienestar?
+
+656
+00:30:15,023 --> 00:30:17,360
+- Estar bien.
+- Chicos, suficiente.
+
+657
+00:30:18,026 --> 00:30:19,600
+¿Qué más saben de nosotros?
+
+658
+00:30:19,653 --> 00:30:21,000
+¿El negocio minorista
+está en caída libre?
+
+659
+00:30:21,071 --> 00:30:21,880
+Sí, hay una recesión.
+
+660
+00:30:21,948 --> 00:30:25,520
+Pero la participación de CVS
+en los ingresos de drogas prescriptivas
+
+661
+00:30:25,576 --> 00:30:26,840
+ha aumentado en el último año.
+
+662
+00:30:26,910 --> 00:30:28,600
+CVS apesta.
+Odiamos CVS.
+
+663
+00:30:28,662 --> 00:30:31,200
+¿Les hablas a ellos?
+¿Le hablas a CVS?
+
+664
+00:30:31,248 --> 00:30:34,480
+Como dije, buscamos
+los socios indicados,
+
+665
+00:30:34,543 --> 00:30:37,080
+socios que comprendan
+nuestra visión.
+
+666
+00:30:37,129 --> 00:30:39,920
+Así que no nos dirás
+con quién estás hablando.
+
+667
+00:30:45,012 --> 00:30:46,200
+Fui a tu sitio web,
+
+668
+00:30:46,263 --> 00:30:50,600
+y vi que le tomaste mucho
+el gusto a los artilugios.
+
+669
+00:30:50,601 --> 00:30:52,680
+¿Así es, así es como competirás
+con Amazon?
+
+670
+00:30:52,728 --> 00:30:54,880
+Porque creo que tú sabes, Wade,
+
+671
+00:30:54,938 --> 00:30:56,439
+que tienes que dar un gran paso
+
+672
+00:30:56,440 --> 00:30:58,560
+y tienes que hacerlo pronto.
+
+673
+00:31:02,321 --> 00:31:07,160
+Bien, no puedo dar ningún paso hasta que
+Kevin pueda evaluar el laboratorio.
+
+674
+00:31:07,201 --> 00:31:08,994
+Sí, por favor.
+
+675
+00:31:13,498 --> 00:31:15,360
+¿Mañana por la mañana?
+
+676
+00:31:15,417 --> 00:31:17,240
+Mañana por la mañana.
+
+677
+00:31:17,377 --> 00:31:18,440
+¿Me lo garantizas?
+
+678
+00:31:18,504 --> 00:31:20,640
+¿Podemos ponerlo por escrito?
+
+679
+00:31:24,676 --> 00:31:26,600
+Tendrán que disculparme.
+
+680
+00:31:38,148 --> 00:31:39,280
+Ian.
+
+681
+00:31:40,275 --> 00:31:41,640
+Elizabeth.
+
+682
+00:31:41,985 --> 00:31:44,160
+Oí que querías hablar conmigo.
+
+683
+00:31:46,198 --> 00:31:48,158
+¿Dónde, dónde oíste eso?
+
+684
+00:31:48,784 --> 00:31:51,703
+De Channing Robertson.
+Él me llamó.
+
+685
+00:31:53,705 --> 00:31:54,960
+¿Channing te llamó?
+
+686
+00:31:55,040 --> 00:31:57,760
+Fuiste a hablar
+con un miembro del directorio
+
+687
+00:31:58,210 --> 00:31:59,800
+a mis espaldas.
+
+688
+00:32:00,212 --> 00:32:01,760
+Pero Channing es uno
+de mis amigos más antiguos.
+
+689
+00:32:01,839 --> 00:32:03,840
+Lo hiciste a mis espaldas.
+
+690
+00:32:04,842 --> 00:32:07,360
+Yo habría ido a hablar
+contigo, pero...
+
+691
+00:32:07,636 --> 00:32:10,556
+Bien, ya no hablamos, ¿no?
+
+692
+00:32:11,473 --> 00:32:13,040
+Y desde que Sunny comenzó...
+
+693
+00:32:13,100 --> 00:32:15,760
+No le eches la culpa de esto
+a Sunny. Él...
+
+694
+00:32:15,978 --> 00:32:17,640
+Él mantuvo viva esta empresa.
+
+695
+00:32:17,688 --> 00:32:19,120
+Él entiende el negocio.
+
+696
+00:32:19,189 --> 00:32:22,943
+¡No puedes poner esto en tiendas!
+
+697
+00:32:23,652 --> 00:32:25,904
+No puedes dejar que la gente,
+
+698
+00:32:26,446 --> 00:32:28,480
+seres humanos,
+
+699
+00:32:28,532 --> 00:32:30,880
+se hagan pruebas
+con esta máquina.
+
+700
+00:32:30,951 --> 00:32:33,120
+¿Qué...?
+¿Qué quieres que haga?
+
+701
+00:32:34,538 --> 00:32:36,400
+Estoy tratando de poder seguir
+financiando tu investigación.
+
+702
+00:32:36,456 --> 00:32:38,240
+¡No se trata de mi investigación!
+
+703
+00:32:38,292 --> 00:32:40,040
+¿Necesitamos un contrato a largo plazo?
+
+704
+00:32:40,085 --> 00:32:41,200
+No. ¡No!
+
+705
+00:32:41,253 --> 00:32:43,200
+Que no conseguimos
+de las empresas farmacéuticas.
+
+706
+00:32:43,255 --> 00:32:43,578
+No.
+
+707
+00:32:43,619 --> 00:32:44,480
+Ahora intentamos en
+el negocio minorista.
+
+708
+00:32:44,549 --> 00:32:46,840
+Debes conseguir el dinero
+de otra parte. Ya lo hiciste antes.
+
+709
+00:32:46,884 --> 00:32:49,160
+No necesito tu consejo
+sobre esto, Ian.
+
+710
+00:32:49,219 --> 00:32:50,920
+Tú no entiendes el negocio.
+
+711
+00:32:50,971 --> 00:32:53,473
+Y tú no entiendes la ciencia.
+
+712
+00:33:00,022 --> 00:33:03,160
+No entiendes las consecuencias
+
+713
+00:33:03,233 --> 00:33:04,800
+de lo que estás haciendo.
+
+714
+00:33:04,860 --> 00:33:05,960
+No.
+
+715
+00:33:06,904 --> 00:33:08,560
+Estás equivocado.
+
+716
+00:33:09,114 --> 00:33:11,760
+Entiendo exactamente
+lo que estoy haciendo.
+
+717
+00:33:16,413 --> 00:33:18,040
+Estás despedido.
+
+718
+00:33:19,249 --> 00:33:20,360
+No.
+
+719
+00:33:20,792 --> 00:33:22,240
+No puedes...
+
+720
+00:33:22,794 --> 00:33:24,720
+Construimos esto juntos.
+
+721
+00:33:25,088 --> 00:33:26,560
+Soy-soy parte de esto.
+
+722
+00:33:26,632 --> 00:33:29,080
+No, ya no compartimos
+la misma visión.
+
+723
+00:33:31,011 --> 00:33:32,720
+Necesito trabajar.
+
+724
+00:33:32,888 --> 00:33:34,240
+Yo quiero trabajar.
+
+725
+00:33:34,306 --> 00:33:36,080
+Tus pertenencias serán enviadas
+a tu dirección particular,
+
+726
+00:33:36,141 --> 00:33:38,320
+y firmarás los papeles
+
+727
+00:33:38,393 --> 00:33:40,680
+que el equipo de legales
+te envíe inmediatamente.
+
+728
+00:33:40,729 --> 00:33:42,120
+Por favor.
+
+729
+00:33:57,329 --> 00:33:59,289
+Vete. Debes, debes irte.
+
+730
+00:34:00,082 --> 00:34:02,480
+No necesito
+que me acompañen para salir.
+
+731
+00:34:02,543 --> 00:34:04,160
+Es el protocolo.
+
+732
+00:34:48,463 --> 00:34:50,400
+¿Cuándo llegaste a casa?
+
+733
+00:34:52,843 --> 00:34:54,000
+Ian.
+
+734
+00:34:54,970 --> 00:34:56,360
+¿Qué está pasando?
+
+735
+00:34:56,430 --> 00:34:58,040
+¿Cuánto bebiste?
+
+736
+00:34:59,725 --> 00:35:01,400
+Ella me despidió.
+
+737
+00:35:02,102 --> 00:35:04,240
+¿Qué? ¿Quién te despidió?
+
+738
+00:35:04,313 --> 00:35:05,720
+¿Elizabeth?
+
+739
+00:35:06,857 --> 00:35:08,640
+Fui a ver a Channing
+
+740
+00:35:09,651 --> 00:35:12,154
+para decirle lo que pasaba.
+
+741
+00:35:13,113 --> 00:35:15,720
+Y resulta que él
+no puede guardar un secreto.
+
+742
+00:35:15,782 --> 00:35:17,480
+¡Santo cielo!
+
+743
+00:35:17,534 --> 00:35:19,369
+Maldito Channing.
+
+744
+00:35:20,996 --> 00:35:24,041
+Y lo tonto es
+
+745
+00:35:25,584 --> 00:35:28,420
+que pensé que era mi amiga.
+
+746
+00:35:29,296 --> 00:35:31,360
+Tienes que recostarte, Ian.
+
+747
+00:35:32,549 --> 00:35:35,260
+Tienes que dormir
+para recuperarte de esto.
+
+748
+00:35:39,139 --> 00:35:40,641
+Creí en ella.
+
+749
+00:35:42,476 --> 00:35:44,561
+La miré a los ojos y pensé:
+
+750
+00:35:46,313 --> 00:35:48,480
+pensé que podía ver el futuro.
+
+751
+00:35:54,488 --> 00:35:55,560
+Duerme, amor.
+
+752
+00:35:55,614 --> 00:35:56,920
+Soy patético.
+
+753
+00:35:56,990 --> 00:35:58,440
+No, no lo eres.
+
+754
+00:35:58,492 --> 00:36:00,285
+Creí en ella.
+
+755
+00:36:23,809 --> 00:36:25,520
+¿Qué está pasando?
+
+756
+00:36:26,270 --> 00:36:28,360
+Regresen a sus laboratorios.
+
+757
+00:36:31,024 --> 00:36:33,520
+Es contra el protocolo hablar
+con alguien fuera de su departamento.
+
+758
+00:36:33,569 --> 00:36:35,600
+¿Despediste a Ian Gibbons?
+
+759
+00:36:36,154 --> 00:36:37,040
+Regresa a tu laboratorio, Brendan.
+
+760
+00:36:37,115 --> 00:36:38,480
+Si despediste a Ian,
+
+761
+00:36:38,532 --> 00:36:39,720
+tendrás que despedirme a mí.
+
+762
+00:36:39,783 --> 00:36:41,480
+¿Quieres despedirme?
+
+763
+00:36:41,535 --> 00:36:45,289
+Verás que tendrás que despedir
+a algunas personas, ¿no es así?
+
+764
+00:37:08,312 --> 00:37:09,080
+Hola.
+
+765
+00:37:09,146 --> 00:37:10,320
+¿Ian?
+
+766
+00:37:11,273 --> 00:37:13,080
+Ian, hola, soy Sunny.
+
+767
+00:37:13,942 --> 00:37:16,720
+Elizabeth se siente pésimo
+por lo que pasó,
+
+768
+00:37:16,778 --> 00:37:19,320
+y ella quisiera que vuelvas a trabajar.
+
+769
+00:37:20,699 --> 00:37:21,680
+¿Qué?
+
+770
+00:37:21,742 --> 00:37:22,640
+Eli...
+
+771
+00:37:22,702 --> 00:37:24,800
+¿Elizabeth quiere que vuelva?
+
+772
+00:37:24,870 --> 00:37:26,120
+Así es.
+
+773
+00:37:26,663 --> 00:37:29,720
+Y todos sabemos lo importante
+que eres para tu equipo
+
+774
+00:37:29,791 --> 00:37:31,585
+y para esta empresa.
+
+775
+00:37:32,836 --> 00:37:35,960
+Nosotros te necesitamos,
+y tú nos necesitas a nosotros.
+
+776
+00:37:39,885 --> 00:37:44,431
+Y, y, ¿tendré el mismo puesto
+que tenía antes?
+
+777
+00:37:45,432 --> 00:37:47,080
+Ambos están aquí.
+
+778
+00:37:48,435 --> 00:37:50,840
+Hablaremos de eso
+cuando vengas, Ian.
+
+779
+00:37:52,481 --> 00:37:54,480
+Un placer hablar contigo.
+
+780
+00:38:00,405 --> 00:38:02,320
+¿Qué quieres hacer hoy?
+
+781
+00:38:06,912 --> 00:38:08,800
+- Luego ejercité.
+- Eso es genial.
+
+782
+00:38:08,872 --> 00:38:10,440
+Yo... así que usé el gimnasio.
+
+783
+00:38:10,499 --> 00:38:12,440
+Proteína buena
+y luego ejercitaste.
+
+784
+00:38:12,501 --> 00:38:13,200
+- Sí.
+- Eso es genial.
+
+785
+00:38:13,253 --> 00:38:15,400
+- Sí, lo hice todo.
+- Yo nadé.
+
+786
+00:38:15,546 --> 00:38:16,720
+¿Qué?
+
+787
+00:38:19,591 --> 00:38:21,400
+- ¿Ese es...?
+- Steve Burd.
+
+788
+00:38:21,468 --> 00:38:22,720
+Safeway.
+
+789
+00:38:22,761 --> 00:38:24,280
+¿Qué diablos?
+
+790
+00:38:29,309 --> 00:38:31,186
+¿Qué diablos?
+
+791
+00:38:44,700 --> 00:38:45,440
+Oye, chicos.
+
+792
+00:38:45,493 --> 00:38:48,960
+Si no les importa, ¿pueden venir
+a esperar en la sala de ideas?
+
+793
+00:39:03,093 --> 00:39:04,400
+¿Qué hora es?
+
+794
+00:39:04,469 --> 00:39:06,360
+Son las, once con seis.
+
+795
+00:39:06,430 --> 00:39:09,683
+Hemos estado sentados en estas pelotas
+una hora y media.
+
+796
+00:39:10,475 --> 00:39:12,600
+Ella no nos puede tratar así.
+
+797
+00:39:12,686 --> 00:39:15,160
+Somos Walgreens, maldita sea,
+y nos vamos de aquí.
+
+798
+00:39:15,230 --> 00:39:17,400
+Guau, espera. Dales,
+dales una oportunidad.
+
+799
+00:39:17,441 --> 00:39:19,200
+Ya les di una oportunidad, Jay.
+Demasiadas oportunidades.
+
+800
+00:39:19,276 --> 00:39:20,800
+Esto se acabó.
+
+801
+00:39:21,904 --> 00:39:24,760
+Ahí estás. Estamos aquí sentados
+hace más de una hora y media.
+
+802
+00:39:24,823 --> 00:39:26,560
+Lamento mucho la demora.
+
+803
+00:39:26,617 --> 00:39:29,328
+Quería darles la noticia en persona.
+
+804
+00:39:29,995 --> 00:39:32,360
+No creo que esto
+vaya a funcionar.
+
+805
+00:39:32,414 --> 00:39:33,560
+¿A qué te refieres?
+
+806
+00:39:33,624 --> 00:39:34,840
+¿Qué, qué es lo que no
+va a funcionar?
+
+807
+00:39:34,917 --> 00:39:36,280
+La sociedad.
+
+808
+00:39:36,335 --> 00:39:37,040
+¿Qué?
+
+809
+00:39:37,086 --> 00:39:40,714
+Creo que Walgreens tiene
+una cultura un poco anticuada,
+
+810
+00:39:41,924 --> 00:39:43,799
+lo que respeto absolutamente.
+
+811
+00:39:43,800 --> 00:39:46,320
+Pero necesitamos sinergia.
+
+812
+00:39:46,386 --> 00:39:48,889
+Y no siento sinergia aquí.
+
+813
+00:39:53,143 --> 00:39:56,104
+Tu reputación está
+por irse al diablo,
+
+814
+00:39:56,855 --> 00:39:57,840
+lo sabes, ¿verdad?
+
+815
+00:39:57,898 --> 00:39:58,960
+Antes de que se vayan,
+
+816
+00:39:59,024 --> 00:40:02,080
+necesitaremos que firmen
+otro acuerdo de confidencialidad.
+
+817
+00:40:02,152 --> 00:40:04,920
+HAZLO O NO LO HAGAS
+PERO NO LO INTENTES - YODA
+
+818
+00:40:11,286 --> 00:40:14,200
+Bien, felicitaciones, Steve,
+supongo que ganaste.
+
+819
+00:40:14,248 --> 00:40:16,560
+Suerte con eso.
+Qué pesadilla.
+
+820
+00:40:16,625 --> 00:40:19,520
+¿De qué diablos estás hablando?
+Ella nos rechazó.
+
+821
+00:40:20,379 --> 00:40:21,965
+Pensé que había hecho
+un acuerdo con ustedes.
+
+822
+00:40:22,005 --> 00:40:24,640
+Su vuelo comenzará a abordar
+en unos 45 minutos.
+
+823
+00:40:24,716 --> 00:40:26,840
+¿El auto nos estará esperando
+en Boston?
+
+824
+00:40:26,885 --> 00:40:29,120
+Sí. Una limusina los esperará
+justo en la pista.
+
+825
+00:40:29,179 --> 00:40:31,280
+Y será una hora de viaje en auto
+después de eso.
+
+826
+00:40:31,348 --> 00:40:33,440
+Y ya están registrados
+en el hotel.
+
+827
+00:40:33,517 --> 00:40:35,440
+Bien, gracias, Cynthia.
+
+828
+00:40:35,519 --> 00:40:37,480
+Que tengan un buen viaje.
+
+829
+00:40:39,398 --> 00:40:40,520
+CVS.
+
+830
+00:40:42,317 --> 00:40:44,400
+CVS es a una hora de Boston.
+
+831
+00:40:47,739 --> 00:40:49,560
+Al diablo con esto, amigo.
+
+832
+00:40:49,616 --> 00:40:51,600
+Que se pudra. Terminamos.
+
+833
+00:41:11,597 --> 00:41:13,400
+Bien, estoy aliviado.
+
+834
+00:41:38,916 --> 00:41:40,600
+Bien, detén el auto.
+
+835
+00:41:40,667 --> 00:41:42,919
+- ¿Qué? ¿Qué?
+- ¡Roland, detén el auto, amigo!
+
+836
+00:41:42,920 --> 00:41:45,520
+- Bien, bien. Detengo...
+- Detén el auto.
+
+837
+00:41:48,926 --> 00:41:50,440
+¡Oye, Wade!
+
+838
+00:41:50,511 --> 00:41:51,160
+No sé...
+
+839
+00:41:51,221 --> 00:41:53,722
+¡Wade! ¡Wade! ¡Wade!
+
+840
+00:41:57,017 --> 00:41:59,080
+¿Qué diablos está haciendo?
+
+841
+00:42:03,565 --> 00:42:04,880
+Tienes que hacer una oferta.
+
+842
+00:42:04,942 --> 00:42:06,235
+No.
+
+843
+00:42:06,485 --> 00:42:08,000
+No, no.
+¿Después de todo eso?
+
+844
+00:42:08,070 --> 00:42:11,573
+Lo sé, sí. Está haciendo
+un último intento desesperado.
+
+845
+00:42:13,951 --> 00:42:17,240
+- Es demasiado riesgoso.
+- Debo presentarlo al directorio.
+
+846
+00:42:17,287 --> 00:42:19,240
+- Tengo que...
+- Cielos, este tipo, diablos.
+
+847
+00:42:19,289 --> 00:42:19,880
+Es tan implacable.
+
+848
+00:42:19,958 --> 00:42:22,360
+Señor, por favor, trabe las puertas.
+
+849
+00:42:25,087 --> 00:42:27,520
+Mierda. Disculpen.
+¿Es una reunión?
+
+850
+00:42:27,589 --> 00:42:29,400
+Si lo es, siento
+que tal vez yo debería...
+
+851
+00:42:29,466 --> 00:42:30,960
+Ella va a CVS.
+
+852
+00:42:31,009 --> 00:42:32,040
+No, ella está mintiendo.
+
+853
+00:42:32,094 --> 00:42:34,000
+Quizás esté mintiendo, quizás no.
+
+854
+00:42:34,054 --> 00:42:35,240
+Aún no vimos los laboratorios.
+
+855
+00:42:35,305 --> 00:42:37,280
+Veremos los laboratorios.
+Me aseguraré de eso.
+
+856
+00:42:37,349 --> 00:42:38,840
+Pero eso no es
+lo que sucede aquí, creo.
+
+857
+00:42:38,892 --> 00:42:40,280
+Creo que estás asustado.
+
+858
+00:42:40,352 --> 00:42:43,480
+No gastaré millones en esto
+solo porque me llamas maricón.
+
+859
+00:42:43,522 --> 00:42:46,320
+No, estoy diciendo
+que yo también soy maricón.
+
+860
+00:42:46,567 --> 00:42:49,640
+Hay chicos aquí dirigiendo
+empresas multimillonarias.
+
+861
+00:42:50,070 --> 00:42:51,920
+Todo ha cambiado,
+todo está cambiando.
+
+862
+00:42:51,989 --> 00:42:53,280
+Diablos.
+
+863
+00:42:54,575 --> 00:42:56,280
+Es un mundo nuevo.
+
+864
+00:42:56,910 --> 00:42:59,400
+Estos chicos, ellos no piensan demasiado,
+no se dejan llevar
+
+865
+00:42:59,454 --> 00:43:01,280
+con cómo solían hacerse
+siempre las cosas.
+
+866
+00:43:01,331 --> 00:43:03,560
+Ellos no quieren
+comités de revisión, burocracia.
+
+867
+00:43:03,625 --> 00:43:05,960
+Quieren que las cosas
+se hagan ahora.
+
+868
+00:43:06,003 --> 00:43:07,760
+Somos viejos, Wade.
+
+869
+00:43:08,297 --> 00:43:10,000
+Somos dinosaurios.
+
+870
+00:43:10,257 --> 00:43:12,040
+Es como esa canción.
+
+871
+00:43:12,384 --> 00:43:14,400
+¿Alguna vez te sientes
+como una bolsa de plástico
+
+872
+00:43:14,469 --> 00:43:17,800
+a la deriva a través del viento,
+queriendo volver a empezar?
+
+873
+00:43:18,765 --> 00:43:22,436
+- ¿Qué?
+- La verdad es que vienen por nosotros.
+
+874
+00:43:23,312 --> 00:43:25,160
+Y si te retiras ahora,
+
+875
+00:43:25,981 --> 00:43:27,840
+te pasarán por encima.
+
+876
+00:43:33,739 --> 00:43:35,040
+Gracias. Gracias.
+
+877
+00:43:35,115 --> 00:43:38,535
+Wade, te lo digo, creo
+que es demasiado peligroso.
+
+878
+00:44:00,724 --> 00:44:02,518
+Gracias.
+
+879
+00:44:03,936 --> 00:44:06,063
+Eres tan...
+Gracias.
+
+880
+00:44:06,480 --> 00:44:08,040
+- Bienvenido otra vez.
+- Por favor.
+
+881
+00:44:08,106 --> 00:44:11,193
+Deberíamos, eh,
+deberíamos volver a trabajar, ¿eh?
+
+882
+00:44:11,568 --> 00:44:12,680
+Sí.
+
+883
+00:44:13,237 --> 00:44:14,960
+- Sr. Gibbons.
+- Sí.
+
+884
+00:44:15,030 --> 00:44:16,840
+Necesito que me siga.
+
+885
+00:44:29,503 --> 00:44:30,720
+Este es su nuevo escritorio.
+
+886
+00:44:30,796 --> 00:44:33,120
+Pero-pero mi laboratorio es abajo.
+
+887
+00:44:33,966 --> 00:44:36,360
+¿Con esto podré ir
+a mi laboratorio?
+
+888
+00:44:36,426 --> 00:44:38,360
+¿Podré trabajar en mi...
+
+889
+00:44:39,680 --> 00:44:41,120
+laboratorio?
+
+890
+00:45:14,006 --> 00:45:16,200
+Sabe, a mediados de los 80,
+
+891
+00:45:16,258 --> 00:45:17,280
+SEPTIEMBRE DE 2010
+
+892
+00:45:17,342 --> 00:45:19,200
+bajo el mandato del presidente Reagan,
+
+893
+00:45:19,261 --> 00:45:22,240
+trabajé en el tema
+de los judíos soviéticos,
+
+894
+00:45:22,306 --> 00:45:25,360
+tratando de obtener su libertad
+de la Unión Soviética.
+
+895
+00:45:25,434 --> 00:45:28,920
+Y hubo una persona en particular
+
+896
+00:45:28,979 --> 00:45:31,040
+que había conocido en Moscú
+
+897
+00:45:31,231 --> 00:45:33,320
+pero que le perdí el rastro.
+
+898
+00:45:34,526 --> 00:45:36,840
+Una refusenik, como los llamaban.
+
+899
+00:45:37,237 --> 00:45:39,760
+Estaba seguro
+de que ella estaba muerta.
+
+900
+00:45:40,616 --> 00:45:42,080
+Pero un día,
+
+901
+00:45:42,993 --> 00:45:45,662
+estoy en mi oficina
+en la Casa Blanca
+
+902
+00:45:46,663 --> 00:45:48,440
+y suena el teléfono,
+
+903
+00:45:48,916 --> 00:45:52,085
+y escucho esa vocecita familiar
+del otro lado.
+
+904
+00:45:52,794 --> 00:45:56,215
+Y ella dice:
+"George, soy Ida,
+
+905
+00:45:56,715 --> 00:45:58,884
+y estoy en Jerusalén".
+
+906
+00:46:02,638 --> 00:46:03,920
+Así que,
+
+907
+00:46:05,432 --> 00:46:08,644
+al menos una persona estaba mejor,
+
+908
+00:46:09,394 --> 00:46:11,640
+y yo tenía algo que ver con eso.
+
+909
+00:46:13,398 --> 00:46:16,151
+Al final, lo más importante,
+
+910
+00:46:16,985 --> 00:46:19,238
+lo que más te mueve, siempre,
+
+911
+00:46:21,657 --> 00:46:23,440
+tiene rostro humano.
+
+912
+00:46:24,952 --> 00:46:27,840
+Es una historia hermosa.
+Gracias por compartirla.
+
+913
+00:46:27,913 --> 00:46:30,240
+No sé por qué
+me fui por las ramas.
+
+914
+00:46:30,874 --> 00:46:32,240
+Perdóneme.
+
+915
+00:46:32,584 --> 00:46:34,680
+No lo había pensado en años.
+
+916
+00:46:35,087 --> 00:46:37,440
+Pero supongo que hay algo
+en usted.
+
+917
+00:46:39,424 --> 00:46:44,160
+Sabe, exactamente por eso
+creo que Walgreens y Safeway
+
+918
+00:46:44,221 --> 00:46:47,560
+ambos decidieron invertir millones
+de dólares en la empresa.
+
+919
+00:46:48,976 --> 00:46:50,880
+Por el elemento humano.
+
+920
+00:46:51,144 --> 00:46:54,960
+Estamos buscando hacer
+una conexión estratégica
+
+921
+00:46:55,023 --> 00:46:56,400
+en el gobierno
+
+922
+00:46:56,441 --> 00:46:59,695
+para avanzar con el proceso
+regulatorio de la FDA.
+
+923
+00:47:01,989 --> 00:47:04,040
+Si siquiera lo considerara,
+
+924
+00:47:05,701 --> 00:47:09,440
+tener a George Shultz con nosotros
+cambiaría las cosas.
+
+925
+00:47:09,496 --> 00:47:12,666
+¿Yo? ¿Quiere a un hombre viejo?
+
+926
+00:47:13,417 --> 00:47:14,959
+Tengo 90 años.
+
+927
+00:47:14,960 --> 00:47:17,671
+Sr. Shultz, usted es
+
+928
+00:47:18,505 --> 00:47:19,920
+una fuerza de la naturaleza,
+
+929
+00:47:19,965 --> 00:47:23,343
+y es inspirador
+estar en su presencia.
+
+930
+00:47:25,971 --> 00:47:27,400
+Debo decir,
+
+931
+00:47:28,849 --> 00:47:31,640
+nunca conocí a nadie
+como usted, Srta. Holmes.
+
+932
+00:47:35,063 --> 00:47:38,840
+Quiero agradecerle a él,
+Dr. Jay Rosen, venga aquí.
+
+933
+00:47:38,901 --> 00:47:40,320
+Venga aquí.
+
+934
+00:47:40,986 --> 00:47:44,040
+Venga aquí. Vamos,
+vamos. Vamos.
+
+935
+00:47:44,114 --> 00:47:46,040
+Debemos agradecerle a este hombre
+
+936
+00:47:46,116 --> 00:47:49,320
+por su arduo trabajo para hacer
+realidad esta sociedad.
+
+937
+00:47:49,369 --> 00:47:51,955
+Maravilloso. Maravillo.
+¡Proyecto Beta!
+
+938
+00:47:53,749 --> 00:47:57,480
+Sabes, aún estamos esperando
+esos exámenes de muestra del dispositivo.
+
+939
+00:47:58,128 --> 00:48:00,200
+¿Cuándo crees
+que los recibiremos?
+
+940
+00:48:00,255 --> 00:48:01,920
+Vamos, Elizabeth.
+
+941
+00:48:06,345 --> 00:48:07,720
+Elizabeth Holmes.
+
+942
+00:48:07,721 --> 00:48:09,560
+Llamando a Elizabeth Holmes.
+
+943
+00:48:09,640 --> 00:48:11,280
+Elizabeth Holmes.
+
+944
+00:48:11,642 --> 00:48:14,160
+Dado que tú creaste
+algo especial para nosotros,
+
+945
+00:48:14,228 --> 00:48:17,040
+nosotros queríamos crear
+algo especial para ti.
+
+946
+00:48:18,982 --> 00:48:20,680
+¿Estás listo, Roland?
+
+947
+00:48:20,734 --> 00:48:22,080
+Adelante.
+
+948
+00:48:25,697 --> 00:48:28,560
+WALGREENS
+ALTERANDO LA INDUSTRIA DEL LABORATORIO
+
+949
+00:48:33,121 --> 00:48:34,400
+# Oye #
+
+950
+00:48:38,585 --> 00:48:40,840
+# Lo que me gusta de la sangre #
+
+951
+00:48:41,421 --> 00:48:43,480
+# Solo necesitas una gota #
+
+952
+00:48:43,549 --> 00:48:45,240
+# Una gota, bebé #
+
+953
+00:48:45,634 --> 00:48:47,760
+# La pones en un dispositivo #
+
+954
+00:48:47,803 --> 00:48:49,960
+# Y obtienes los resultados #
+
+955
+00:48:50,013 --> 00:48:51,640
+# Sí #
+
+956
+00:48:51,682 --> 00:48:54,480
+# Análisis de sangre de bajo costo #
+
+957
+00:48:54,560 --> 00:48:56,840
+# Dinos todo lo que quieres saber #
+
+958
+00:48:56,895 --> 00:48:58,640
+# Bien, es cierto #
+
+959
+00:48:59,231 --> 00:49:01,000
+# Eso es lo que me gusta
+de la sangre #
+
+960
+00:49:01,066 --> 00:49:01,880
+# Lo que me gusta #
+
+961
+00:49:01,943 --> 00:49:03,360
+# Sí #
+
+962
+00:49:03,402 --> 00:49:04,560
+¡Sí!
+
+963
+00:49:08,657 --> 00:49:09,800
+¡Sí!
+
+964
+00:49:14,288 --> 00:49:16,800
+# Eso es lo que me gusta
+de la sangre #
+
+965
+00:49:17,249 --> 00:49:19,280
+# Puede salvarte la vida #
+
+966
+00:49:21,253 --> 00:49:22,879
+# Después de 200 pruebas #
+
+967
+00:49:22,880 --> 00:49:25,132
+# Y te diremos que está mal #
+
+968
+00:49:25,549 --> 00:49:27,280
+# Sí #
+
+969
+00:49:27,342 --> 00:49:30,120
+# Análisis de sangre de bajo costo #
+
+970
+00:49:30,179 --> 00:49:32,720
+# Dinos todo lo que quieres saber #
+
+971
+00:49:32,764 --> 00:49:33,640
+# Bien, es cierto #
+
+972
+00:49:33,683 --> 00:49:34,760
+# Lo que me gusta #
+
+973
+00:49:34,808 --> 00:49:36,640
+# Eso es lo que me gusta
+de la sangre #
+
+974
+00:49:36,685 --> 00:49:37,600
+# Lo que me gusta #
+
+975
+00:49:37,645 --> 00:49:39,146
+# Sí #
+
+9999
+00:00:00,010 --> 00:00:00,020
+• Sincronizado y corregido por MarcusL •
+• www.subdivx.com •
+
